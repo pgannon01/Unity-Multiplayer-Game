@@ -3,4 +3,4 @@
 
 
 
-# This repo is just meant to hold the code, as I can't commit the whole game since it's too big.
+This repo is just meant to hold the code, as I can't commit the whole game since it's too big.
